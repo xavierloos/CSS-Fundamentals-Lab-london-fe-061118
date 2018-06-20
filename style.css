@@ -13,9 +13,7 @@ nav{
 nav a{
   background: gray;
   }
-#details{
-  background: red;
-  }
+
 section#featured-property{
   text-align: center;
   }
@@ -25,5 +23,9 @@ figcaption{
 }
 section p{
   text-align: center;
+  padding: 10px;
 
 }
+#details{
+  background: red;
+  }
