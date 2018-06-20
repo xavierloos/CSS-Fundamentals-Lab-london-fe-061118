@@ -32,10 +32,9 @@ figcaption{
   background: red;
   text-align: center;
   
-  float:left;
   
 }
-div{
+#details div{
   width: 25%;
 
 }
