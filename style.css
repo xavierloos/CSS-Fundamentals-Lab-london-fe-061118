@@ -6,9 +6,11 @@ body {
 h1{
   text-align: center;
 }
+nav{
+  align-content: center;
+}
 nav a{
   background: gray;
-  align-content: center;
 }
 #details{
   background: red;
