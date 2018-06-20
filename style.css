@@ -20,7 +20,8 @@ section#featured-property{
   text-align: center;
   }
 figcaption{
-  padding-top: 
+  padding-top:0px;
+  text-align: center;
 }
 section p{
   text-align: center;
