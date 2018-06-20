@@ -8,6 +8,7 @@ h1{
   }
 nav{
   text-align: center;
+  padding: 10px;
   }
 nav a{
   background: gray;
