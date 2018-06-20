@@ -30,5 +30,5 @@ figcaption{
 }
 #details div{
   background: red;
-  
+  float: left;
   }
