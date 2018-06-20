@@ -8,7 +8,7 @@ h1{
 }
 nav a{
   background: gray;
-  text-align: center;
+  align-content: center;
 }
 #details{
   background: red;
