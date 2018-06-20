@@ -12,6 +12,7 @@ nav{
 nav a{
   background: gray;
 }
+a.link
 #details{
   background: red;
 }
